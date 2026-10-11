@@ -1,3 +1,21 @@
 build/
 __pycache__/
 *.pyc
+
+# --- AI-assistant artifacts (never public) ---
+AGENTS.md
+CLAUDE.md
+claude_memory/
+.claude/
+.kimi-code/
+.kimi/
+.cursor/
+.cursorrules
+.aider*
+.continue/
+wire.jsonl
+*.ai-notes.md
+
+# --- Workshop docs (local only) ---
+STATE.md
+LEARNING.md
